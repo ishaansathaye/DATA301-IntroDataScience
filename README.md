@@ -2,8 +2,8 @@
 
 ## Notes
 - Intro
-    - [Introduction to Notebooks and Colab](./notes/Introduction_to_Notebooks_and_Colab.ipynb)
+    - [Introduction to Notebooks and Colab](./notes/intro/Introduction_to_Notebooks_and_Colab.ipynb)
 - Quiz 1
-    - [Tabular Data](./notes/Tabular_Data.ipynb)
-    - [Rows and Observational Units](./notes/Rows_and_Observational_Units.ipynb)
-    - [Columns and Variables](./notes/Columns_and_Variables.ipynb)
+    - [Tabular Data](./notes/quiz1/Tabular_Data.ipynb)
+    - [Rows and Observational Units](./notes/quiz1/Rows_and_Observational_Units.ipynb)
+    - [Columns and Variables](./notes/quiz1/Columns_and_Variables.ipynb)
