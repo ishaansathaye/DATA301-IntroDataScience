@@ -7,3 +7,4 @@
     - [Tabular Data](./notes/quiz1/Tabular_Data.ipynb)
     - [Rows and Observational Units](./notes/quiz1/Rows_and_Observational_Units.ipynb)
     - [Columns and Variables](./notes/quiz1/Columns_and_Variables.ipynb)
+    - [Lecture 1: Introduction to Tabular Data](./notes/quiz1/Day_01_Introduction_to_Tabular_Data.ipynb)
