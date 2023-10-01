@@ -15,3 +15,5 @@
 - Quiz 3
     - [Multi Way Tables and Simpson's Paradox](./notes/quiz3/Multi_Way_Tables_and_Simpson's_Paradox.ipynb)
     - [Summarizing a Quantitative Variable](./notes/quiz3/Summarizing_a_Quantitative_Variable.ipynb)
+    - [Lecture 3A: Multi-way Tables and Simpson's Paradox](./notes/quiz3/Day_03A_Multi_Way_Tables_and_Simpson's_Paradox.ipynb)
+    - [Lecture 3B: Summarizing a Quantitative Variable](./notes/quiz3/Day_03B_Summarizing_a_Quantitative_Variable.ipynb)
