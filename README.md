@@ -18,4 +18,9 @@
     - [Lecture 3A: Multi-way Tables and Simpson's Paradox](./notes/quiz3/Day_03A_Multi_Way_Tables_and_Simpson's_Paradox.ipynb)
     - [Lecture 3B: Summarizing a Quantitative Variable](./notes/quiz3/Day_03B_Summarizing_a_Quantitative_Variable.ipynb)
 - Quiz 4
+    - [Transforming Variables](./notes/quiz4/Transforming_Variables.ipynb)
+    - [Summarizing Two Quantitative Variables](./notes/quiz4/Summarizing_Two_Quantitative_Variables.ipynb)
+
+## Assignments
+- [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
     
