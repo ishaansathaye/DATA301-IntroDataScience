@@ -20,6 +20,7 @@
 - Quiz 4
     - [Transforming Variables](./notes/quiz4/Transforming_Variables.ipynb)
     - [Summarizing Two Quantitative Variables](./notes/quiz4/Summarizing_Two_Quantitative_Variables.ipynb)
+    - [Lecture 4: Quantitative Variables](./notes/quiz4/Day_04_Quantitative_Variables_solution.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
