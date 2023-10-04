@@ -21,6 +21,9 @@
     - [Transforming Variables](./notes/quiz4/Transforming_Variables.ipynb)
     - [Summarizing Two Quantitative Variables](./notes/quiz4/Summarizing_Two_Quantitative_Variables.ipynb)
     - [Lecture 4: Quantitative Variables](./notes/quiz4/Day_04_Quantitative_Variables.ipynb)
+- Quiz 5
+    - [Split-Apply-Combine](./notes/quiz5/Split_Apply_Combine.ipynb)
+    - [Moving Beyond Two Variables](./notes/quiz5/Beyond_Two_Variables.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
