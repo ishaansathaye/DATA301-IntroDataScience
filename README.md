@@ -24,6 +24,7 @@
 - Quiz 5
     - [Split-Apply-Combine](./notes/quiz5/Split_Apply_Combine.ipynb)
     - [Moving Beyond Two Variables](./notes/quiz5/Beyond_Two_Variables.ipynb)
+    - [Split-Apply-Combine and Summarizing Categorical and Quantitative Variables](./notes/quiz5/Day_05_Relationships_between_Quantitative_and_Categorical_Variables.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
