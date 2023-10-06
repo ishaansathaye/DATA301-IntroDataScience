@@ -24,7 +24,10 @@
 - Quiz 5
     - [Split-Apply-Combine](./notes/quiz5/Split_Apply_Combine.ipynb)
     - [Moving Beyond Two Variables](./notes/quiz5/Beyond_Two_Variables.ipynb)
-    - [Split-Apply-Combine and Summarizing Categorical and Quantitative Variables](./notes/quiz5/Day_05_Relationships_between_Quantitative_and_Categorical_Variables.ipynb)
+    - [Lecture 5: Split-Apply-Combine and Summarizing Categorical and Quantitative Variables](./notes/quiz5/Day_05_Relationships_between_Quantitative_and_Categorical_Variables.ipynb)
+- Quiz 6
+    - [The Grammar of Graphics](./notes/quiz6/Grammar_of_Graphics.ipynb)
+    - [Lecture 6: Data Visualization](./notes/quiz6/Day_06_Data_Visualization.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
