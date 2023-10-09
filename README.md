@@ -28,6 +28,8 @@
 - Quiz 6
     - [The Grammar of Graphics](./notes/quiz6/Grammar_of_Graphics.ipynb)
     - [Lecture 6: Data Visualization](./notes/quiz6/Day_06_Data_Visualization.ipynb)
+- Quiz 7
+    - [Distances between Observations](./notes/quiz7/Distances_Between_Observations.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
