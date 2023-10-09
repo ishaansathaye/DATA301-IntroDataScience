@@ -34,4 +34,5 @@
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
+    - [PDF](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.pdf)
     
