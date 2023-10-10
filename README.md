@@ -35,4 +35,8 @@
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
     - [PDF](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.pdf)
+- [Assignment 2A](./assignments/assignment2/DATA_301_Assignment_02A_Ishaan_Sathaye_and_Sreshta_Talluri.ipynb)
+    - [PDF](./assignments/assignment2/DATA_301_Assignment_02A_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
+- [Assignment 2B](./assignments/assignment2/DATA_301_Assignment_02B_Ishaan_Sathaye_and_Sreshta_Talluri.ipynb)
+    - [PDF](./assignments/assignment2/DATA_301_Assignment_02B_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
     
