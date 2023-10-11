@@ -33,6 +33,7 @@
     - [Lecture 7: Distances Between Observations](./notes/quiz7/Day_07_Distances_Between_Observations.ipynb)
 - Quiz 8
     - [Hierarchical Data and JSON](./notes/quiz8/Hierarchical_Data_and_JSON.ipynb)
+    - [Lecture 8: Hierarchical Data and JSON Data Format](./notes/quiz8/Day_08_JSON_Data_Format_and_APIs.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
