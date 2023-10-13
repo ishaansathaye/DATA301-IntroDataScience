@@ -34,6 +34,9 @@
 - Quiz 8
     - [Hierarchical Data and JSON](./notes/quiz8/Hierarchical_Data_and_JSON.ipynb)
     - [Lecture 8: Hierarchical Data and JSON Data Format](./notes/quiz8/Day_08_JSON_Data_Format_and_APIs.ipynb)
+- Quiz 9
+    - [The XML Data Format](./notes/quiz9/The_XML_Data_Format.ipynb)
+    - [HTML and Web Scraping](./notes/quiz9/HTML_and_Web_Scraping.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
