@@ -37,6 +37,7 @@
 - Quiz 9
     - [The XML Data Format](./notes/quiz9/The_XML_Data_Format.ipynb)
     - [HTML and Web Scraping](./notes/quiz9/HTML_and_Web_Scraping.ipynb)
+    - [Lecture 09: XML, HTML, and Web Scraping](./notes/quiz9/Day_09_XML,_HTML,_and_Web_Scraping.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
