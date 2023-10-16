@@ -41,6 +41,7 @@
 - Quiz 10
     - [Bag of Words and N-Grams](./notes/quiz10/Bag_of_Words_and_N_Grams.ipynb)
     - [The Vector Space Model](./notes/quiz10/The_Vector_Space_Model.ipynb)
+    - [Lecture 10: Intro to Text Data](./notes/quiz10/Day_10_Introduction_to_Text_Data.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
