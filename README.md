@@ -38,6 +38,9 @@
     - [The XML Data Format](./notes/quiz9/The_XML_Data_Format.ipynb)
     - [HTML and Web Scraping](./notes/quiz9/HTML_and_Web_Scraping.ipynb)
     - [Lecture 09: XML, HTML, and Web Scraping](./notes/quiz9/Day_09_XML,_HTML,_and_Web_Scraping.ipynb)
+- Quiz 10
+    - [Bag of Words and N-Grams](./notes/quiz10/Bag_of_Words_and_N_Grams.ipynb)
+    - [The Vector Space Model](./notes/quiz10/The_Vector_Space_Model.ipynb)
 
 ## Assignments
 - [Assignment 1](./assignments/DATA_301_Assignment_1_Sreshta_Talluri_and_Ishaan_Sathaye.ipynb)
