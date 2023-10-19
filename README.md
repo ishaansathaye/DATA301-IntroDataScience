@@ -52,4 +52,5 @@
   - [PDF](./assignments/assignment2/DATA_301_Assignment_02A_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
 - [Assignment 2B](./assignments/assignment2/DATA_301_Assignment_02B_Ishaan_Sathaye_and_Sreshta_Talluri.ipynb)
   - [PDF](./assignments/assignment2/DATA_301_Assignment_02B_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
-- [Assignment 3](./assignments/assignment3/DATA_301_Assignment_3_YOUR_NAMES_HERE.ipynb)
+- [Assignment 3](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.ipynb)
+  - [PDF](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
