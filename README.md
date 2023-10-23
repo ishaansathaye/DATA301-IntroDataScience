@@ -43,6 +43,9 @@
   - [Bag of Words and N-Grams](./notes/quiz10/Bag_of_Words_and_N_Grams.ipynb)
   - [The Vector Space Model](./notes/quiz10/The_Vector_Space_Model.ipynb)
   - [Lecture 10: Intro to Text Data](./notes/quiz10/Day_10_Introduction_to_Text_Data.ipynb)
+- Quiz 11
+  - [Concatenating and Merging Data](./notes/quiz11/Concatenating_and_Merging_Data.ipynb)
+  - [Types of Joins](./notes/quiz11/Types_of_Joins.ipynb)
 
 ## Assignments
 
