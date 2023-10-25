@@ -50,6 +50,7 @@
 - Quiz 12
     - [Linear Regression](./notes/quiz12/Linear_Regression.ipynb)
     - [Categorical Features in Regression Models](./notes/quiz12/Categorical_Features_in_Regression_Models.ipynb)
+    - [Lecture 12: Linear Regression](./notes/quiz12/Day_12_Linear_Regression.ipynb)
 
 ## Assignments
 
