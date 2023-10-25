@@ -47,6 +47,9 @@
   - [Concatenating and Merging Data](./notes/quiz11/Concatenating_and_Merging_Data.ipynb)
   - [Types of Joins](./notes/quiz11/Types_of_Joins.ipynb)
   - [Lecture 11: Concatenating and Merging (Joining) Data](./notes/quiz11/Day_11_Concatenating_and_Joining_Data.ipynb)
+- Quiz 12
+    - [Linear Regression](./notes/quiz12/Linear_Regression.ipynb)
+    - [Categorical Features in Regression Models](./notes/quiz12/Categorical_Features_in_Regression_Models.ipynb)
 
 ## Assignments
 
