@@ -53,6 +53,7 @@
   - [Lecture 12: Linear Regression](./notes/quiz12/Day_12_Linear_Regression.ipynb)
 - Quiz 13
   - [K-Nearest Neighbors for Regression](./notes/quiz13/K_Nearest_Neighbors_for_Regression.ipynb)
+  - [Lecture 13: K-Nearest Neighbors for Regression](./notes/quiz13/Day_13_K_Nearest_Neighbors_for_Regression.ipynb)
 
 ## Assignments
 
