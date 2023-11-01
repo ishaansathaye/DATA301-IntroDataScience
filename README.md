@@ -61,6 +61,7 @@
     - [Lecture 14: Training and Test Errors](./notes/quiz14/Day_14_Training_and_Test_Errors.ipynb)
 - Quiz 15
     - [Model Selection and Hyperparameter Tuning](./notes/quiz15/Model_Selection_and_Hyperparameter_Tuning.ipynb)
+    - [Lecture 15: Model Selection and Hyperparameter Tuning](./notes/quiz15/Day_15_Model_Section_and_Hyperparameter_Tuning.ipynb)
 
 ## Assignments
 
@@ -72,3 +73,8 @@
   - [PDF](./assignments/assignment2/DATA_301_Assignment_02B_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
 - [Assignment 3](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.ipynb)
   - [PDF](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
+
+## Project
+- Phase 2
+    - [Collect and Clean Notebook](./project/phase2/clean.ipynb)
+    - [Summary Notebook](./project/phase2/summary.ipynb)
