@@ -55,6 +55,12 @@
 - Quiz 13
   - [K-Nearest Neighbors for Regression](./notes/quiz13/K_Nearest_Neighbors_for_Regression.ipynb)
   - [Lecture 13: K-Nearest Neighbors for Regression](./notes/quiz13/Day_13_K_Nearest_Neighbors_for_Regression.ipynb)
+- Quiz 14
+    - [Training and Test Errors](./notes/quiz14/Training_and_Test_Errors.ipynb)
+    - [Estimating the Test Error](./notes/quiz14/Estimating_the_Test_Error.ipynb)
+    - [Lecture 14: Training and Test Errors](./notes/quiz14/Day_14_Training_and_Test_Errors.ipynb)
+- Quiz 15
+    - [Model Selection and Hyperparameter Tuning](./notes/quiz15/Model_Selection_and_Hyperparameter_Tuning.ipynb)
 
 ## Assignments
 
