@@ -64,6 +64,7 @@
     - [Lecture 15: Model Selection and Hyperparameter Tuning](./notes/quiz15/Day_15_Model_Section_and_Hyperparameter_Tuning.ipynb)
 - Quiz 16
     - [Ensemble Models for Regression](./notes/quiz16/Ensemble_Methods_for_Regression.ipynb)
+    - [Lecture 16: Ensemble Models for Regression](./notes/quiz16/Day_16_Ensemble_Methods_for_Regression.ipynb)
 
 ## Assignments
 
