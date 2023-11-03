@@ -73,6 +73,8 @@
   - [PDF](./assignments/assignment2/DATA_301_Assignment_02B_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
 - [Assignment 3](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.ipynb)
   - [PDF](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
+- [Assignment 4](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
+  - [PDF](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
 
 ## Project
 - Phase 2
