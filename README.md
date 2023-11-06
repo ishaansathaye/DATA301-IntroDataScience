@@ -56,15 +56,18 @@
   - [K-Nearest Neighbors for Regression](./notes/quiz13/K_Nearest_Neighbors_for_Regression.ipynb)
   - [Lecture 13: K-Nearest Neighbors for Regression](./notes/quiz13/Day_13_K_Nearest_Neighbors_for_Regression.ipynb)
 - Quiz 14
-    - [Training and Test Errors](./notes/quiz14/Training_and_Test_Errors.ipynb)
-    - [Estimating the Test Error](./notes/quiz14/Estimating_the_Test_Error.ipynb)
-    - [Lecture 14: Training and Test Errors](./notes/quiz14/Day_14_Training_and_Test_Errors.ipynb)
+  - [Training and Test Errors](./notes/quiz14/Training_and_Test_Errors.ipynb)
+  - [Estimating the Test Error](./notes/quiz14/Estimating_the_Test_Error.ipynb)
+  - [Lecture 14: Training and Test Errors](./notes/quiz14/Day_14_Training_and_Test_Errors.ipynb)
 - Quiz 15
-    - [Model Selection and Hyperparameter Tuning](./notes/quiz15/Model_Selection_and_Hyperparameter_Tuning.ipynb)
-    - [Lecture 15: Model Selection and Hyperparameter Tuning](./notes/quiz15/Day_15_Model_Section_and_Hyperparameter_Tuning.ipynb)
+  - [Model Selection and Hyperparameter Tuning](./notes/quiz15/Model_Selection_and_Hyperparameter_Tuning.ipynb)
+  - [Lecture 15: Model Selection and Hyperparameter Tuning](./notes/quiz15/Day_15_Model_Section_and_Hyperparameter_Tuning.ipynb)
 - Quiz 16
-    - [Ensemble Models for Regression](./notes/quiz16/Ensemble_Methods_for_Regression.ipynb)
-    - [Lecture 16: Ensemble Models for Regression](./notes/quiz16/Day_16_Ensemble_Methods_for_Regression.ipynb)
+  - [Ensemble Models for Regression](./notes/quiz16/Ensemble_Methods_for_Regression.ipynb)
+  - [Lecture 16: Ensemble Models for Regression](./notes/quiz16/Day_16_Ensemble_Methods_for_Regression.ipynb)
+- Quiz 17
+  - [K-Nearest Neighbors for Classification](./notes/quiz17/K_Nearest_Neighbors_for_Classification.ipynb)
+  - [Evaluating Classification Models](./notes/quiz17/Evaluating_Classification_Models.ipynb)
 
 ## Assignments
 
@@ -80,6 +83,7 @@
   - [PDF](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
 
 ## Project
+
 - Phase 2
-    - [Collect and Clean Notebook](./project/phase2/clean.ipynb)
-    - [Summary Notebook](./project/phase2/summary.ipynb)
+  - [Collect and Clean Notebook](./project/phase2/clean.ipynb)
+  - [Summary Notebook](./project/phase2/summary.ipynb)
