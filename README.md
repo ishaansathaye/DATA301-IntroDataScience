@@ -68,6 +68,7 @@
 - Quiz 17
   - [K-Nearest Neighbors for Classification](./notes/quiz17/K_Nearest_Neighbors_for_Classification.ipynb)
   - [Evaluating Classification Models](./notes/quiz17/Evaluating_Classification_Models.ipynb)
+  - [Lecture 17: K-Nearest Neighbors for Classification](./notes/quiz17/Day_17_K_Nearest_Neighbors_for_Classification.ipynb)
 
 ## Assignments
 
