@@ -1,0 +1,36 @@
+,team_name,team_name_short,team_id,team_conference,team_division
+0,New England Patriots,Patriots,NE,AFC,AFC East
+1,Buffalo Bills,Bills,BUF,AFC,AFC East
+2,Miami Dolphins,Dolphins,MIA,AFC,AFC East
+3,New York Jets,Jets,NYJ,AFC,AFC East
+4,Baltimore Ravens,Ravens,BAL,AFC,AFC North
+5,Pittsburgh Steelers,Steelers,PIT,AFC,AFC North
+6,Cincinnati Bengals,Bengals,CIN,AFC,AFC North
+7,Cleveland Browns,Browns,CLE,AFC,AFC North
+8,Tennessee Titans,Titans,TEN,AFC,AFC South
+9,Jacksonville Jaguars,Jaguars,JAX,AFC,AFC South
+10,Indianapolis Colts,Colts,IND,AFC,AFC South
+11,Houston Texans,Texans,HOU,AFC,AFC South
+12,Los Angeles Chargers,Chargers,LAC,AFC,AFC West
+13,Kansas City Chiefs,Chiefs,KC,AFC,AFC West
+14,San Diego Chargers,Chargers,LAC,AFC,AFC West
+15,Oakland Raiders,Raiders,LVR,AFC,AFC West
+16,Denver Broncos,Broncos,DEN,AFC,AFC West
+17,Philadelphia Eagles,Eagles,PHI,NFC,NFC East
+18,Washington Commanders,Washington,WAS,NFC,NFC East
+19,New York Giants,Giants,NYG,NFC,NFC East
+20,Washington Redskins,Washington,WAS,NFC,NFC East
+21,Washington Football Team,Washington,WAS,NFC,NFC East
+22,Dallas Cowboys,Cowboys,DAL,NFC,NFC East
+23,Green Bay Packers,Packers,GB,NFC,NFC North
+24,Detroit Lions,Lions,DET,NFC,NFC North
+25,Chicago Bears,Bears,CHI,NFC,NFC North
+26,Minnesota Vikings,Vikings,MIN,NFC,NFC North
+27,New Orleans Saints,Saints,NO,NFC,NFC South
+28,Carolina Panthers,Panthers,CAR,NFC,NFC South
+29,Atlanta Falcons,Falcons,ATL,NFC,NFC South
+30,Tampa Bay Buccaneers,Buccaneers,TB,NFC,NFC South
+31,Arizona Cardinals,Cardinals,ARI,NFC,NFC West
+32,San Francisco 49ers,49ers,SF,NFC,NFC West
+33,Seattle Seahawks,Seahawks,SEA,NFC,NFC West
+34,Los Angeles Rams,Rams,LAR,NFC,NFC West
