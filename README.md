@@ -89,6 +89,9 @@
     - [PDF](./assignments/assignment5/DATA_301_Assignment_5A_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
 - [Assignment 5B](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
     - [PDF](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
+- [Assignment 6]
+    - [Day 16 PDF](./assignments/assignment6/Day_16_Ensemble_Methods_for_Regression.pdf)
+    - [Day 18 PDF](./assignments/assignment6/Day_18_Estimating_Test_Metrics_for_Classification.pdf)
 
 ## Project
 
