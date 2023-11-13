@@ -71,6 +71,7 @@
   - [Lecture 17: K-Nearest Neighbors for Classification](./notes/quiz17/Day_17_K_Nearest_Neighbors_for_Classification.ipynb)
 - Quiz 18
   - [Estimating Test Metrics for Classification Models](./notes/quiz18/Estimating_Test_Metrics_for_Classification.ipynb)
+  - [Lecture 18: Estimating Test Metrics for Classification](./notes/quiz18/Day_18_Estimating_Test_Metrics_for_Classification.ipynb)
 
 ## Assignments
 
@@ -84,9 +85,14 @@
   - [PDF](./assignments/assignment3/DATA_301_Assignment_3_Ishaan_Sathaye_and_Sreshta_Talluri.pdf)
 - [Assignment 4](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
   - [PDF](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
+- [Assignment 5A](./assignments/assignment5/DATA_301_Assignment_5A_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
+    - [PDF](./assignments/assignment5/DATA_301_Assignment_5A_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
+- [Assignment 5B](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
+    - [PDF](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
 
 ## Project
 
 - Phase 2
   - [Collect and Clean Notebook](./project/phase2/clean.ipynb)
-  - [Summary Notebook](./project/phase2/summary.ipynb)
+  - [Visualizations](./project/phase2/visualization.ipynb)
+  - [Executive Summary Notebook](./project/phase2/summary.ipynb)
