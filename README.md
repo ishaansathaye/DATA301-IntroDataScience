@@ -72,6 +72,9 @@
 - Quiz 18
   - [Estimating Test Metrics for Classification Models](./notes/quiz18/Estimating_Test_Metrics_for_Classification.ipynb)
   - [Lecture 18: Estimating Test Metrics for Classification](./notes/quiz18/Day_18_Estimating_Test_Metrics_for_Classification.ipynb)
+- Quiz 19
+  - [Time Series Data](./notes/quiz19/Time_Series_Data.ipynb)
+  - [Time Series Modeling and Forecasting](./notes/quiz19/Time_Series_Forecasting.ipynb)
 
 ## Assignments
 
@@ -86,12 +89,12 @@
 - [Assignment 4](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
   - [PDF](./assignments/assignment4/DATA_301_Assignment_04_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
 - [Assignment 5A](./assignments/assignment5/DATA_301_Assignment_5A_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
-    - [PDF](./assignments/assignment5/DATA_301_Assignment_5A_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
+  - [PDF](./assignments/assignment5/DATA_301_Assignment_5A_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
 - [Assignment 5B](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.ipynb)
-    - [PDF](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
-- [Assignment 6]
-    - [Day 16 PDF](./assignments/assignment6/Day_16_Ensemble_Methods_for_Regression.pdf)
-    - [Day 18 PDF](./assignments/assignment6/Day_18_Estimating_Test_Metrics_for_Classification.pdf)
+  - [PDF](./assignments/assignment5/DATA_301_Assignment_5B_ISHAAN_SATHAYE_SRESHTA_TALLURI.pdf)
+- Assignment 6
+  - [Day 16 PDF](./assignments/assignment6/Day_16_Ensemble_Methods_for_Regression.pdf)
+  - [Day 18 PDF](./assignments/assignment6/Day_18_Estimating_Test_Metrics_for_Classification.pdf)
 
 ## Project
 
