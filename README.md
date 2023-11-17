@@ -75,6 +75,7 @@
 - Quiz 19
   - [Time Series Data](./notes/quiz19/Time_Series_Data.ipynb)
   - [Time Series Modeling and Forecasting](./notes/quiz19/Time_Series_Forecasting.ipynb)
+  - [Lecture 19: Time Series](./notes/quiz19/Day_19_Time_Series.ipynb)
 
 ## Assignments
 
