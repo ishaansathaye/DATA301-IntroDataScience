@@ -81,6 +81,7 @@
   - [Lecture 20: Unsupervised Learning - K Means Clustering](./notes/quiz20/Day_20_K_Means_Clustering.ipynb)
 - Quiz 21
   - [Hierarchical Clustering](./notes/quiz21/Hierarchical_Clustering.ipynb)
+  - [Lecture 21: Hierarchical Clustering](./notes/quiz21/Day_21_Hierarchical_Clustering.ipynb)
 
 ## Assignments
 
