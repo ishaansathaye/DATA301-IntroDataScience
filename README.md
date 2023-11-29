@@ -76,6 +76,11 @@
   - [Time Series Data](./notes/quiz19/Time_Series_Data.ipynb)
   - [Time Series Modeling and Forecasting](./notes/quiz19/Time_Series_Forecasting.ipynb)
   - [Lecture 19: Time Series](./notes/quiz19/Day_19_Time_Series.ipynb)
+- Quiz 20
+  - [K Means Clustering](./notes/quiz20/K_Means_Clustering.ipynb)
+  - [Lecture 20: Unsupervised Learning - K Means Clustering](./notes/quiz20/Day_20_K_Means_Clustering.ipynb)
+- Quiz 21
+  - [Hierarchical Clustering](./notes/quiz21/Hierarchical_Clustering.ipynb)
 
 ## Assignments
 
